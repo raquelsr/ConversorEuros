@@ -1,0 +1,10 @@
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.exe.config
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.exe
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.pdb
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.csprojResolveAssemblyReference.cache
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Properties.Resources.resources
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.csproj.GenerateResource.Cache
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.exe
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.pdb
+c:\users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Form1.resources
+C:\Users\bo0415\documents\visual studio 2013\Projects\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Producto.resources

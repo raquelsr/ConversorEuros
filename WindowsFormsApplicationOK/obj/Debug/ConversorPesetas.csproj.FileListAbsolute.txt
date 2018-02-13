@@ -1,0 +1,11 @@
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.exe.config
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.exe
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\bin\Debug\WindowsFormsApplicationOK.pdb
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\ConversorPesetas.csprojResolveAssemblyReference.cache
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Form1.resources
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Producto.resources
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.Properties.Resources.resources
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\ConversorPesetas.csproj.GenerateResource.Cache
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\ConversorPesetas.csproj.CoreCompileInputs.cache
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.exe
+\\VBOXSVR\CompVM\WindowsFormsApplicationOK\WindowsFormsApplicationOK\obj\Debug\WindowsFormsApplicationOK.pdb
